@@ -8,8 +8,7 @@ Hi, I’m Sweymaan 👋
 ---
 
 ## 📂 What you’ll find here  
-- 🔧 **Projects** (AI, ML, and Robotics – in progress)  
-- 📘 **Lecture Notes & Resources** from my studies (organized for easy reference)  
+- 🔧 **Projects** ( AI, ML, and Robotics )  
 - 🏆 **Achievements & Milestones** from my learning journey  
 
 ---
@@ -21,7 +20,8 @@ Hi, I’m Sweymaan 👋
 ---
 
 ## 📫 Connect with me  
-- **LinkedIn**: [Your Link] 
+- **LinkedIn**: [Your Link]
+- **EMAIL**: sweymaan9@gmail.com
 
 ---
 ⭐ This repository grows as I grow – projects, notes, and experiences will be added step by step.  
